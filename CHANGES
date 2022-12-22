@@ -1,3 +1,5 @@
+1.0.5 2022-12-22
+  - Resolving validator warning about task-things_events.jsons
 1.0.4 2022-12-22
   - added task-things_events.json at top level
 1.0.3 2022-12-22
