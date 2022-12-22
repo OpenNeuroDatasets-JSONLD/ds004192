@@ -18,5 +18,13 @@
     "test_image_nr": {
         "LongName": "Test image number",
         "Description": "index of test image (1-100). Is <NULL> for non-test images"
+    },
+    "category_nr": {
+        "LongName": "Category number",
+        "Description": "Running index of all unique object categories shown in the fMRI experiment (1-721 where nmber 721 is a always a catch trial)"
+    },
+    "exemplar_nr": {
+        "LongName": "Exemplar number",
+        "Description": "Exemplar number of a given category shown in MRI (refers to category_nr)."
     }
 }
