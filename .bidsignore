@@ -1,7 +1,0 @@
-*.h5
-*_voxel-metadata.tsv
-*_voxel-metadata.json
-*_stimulus_metadata.tsv
-*_stimulus_metadata.json
-*_voxel-wise-responses.h5
-*_voxel-wise-responses.json
